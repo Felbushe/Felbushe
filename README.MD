@@ -1,13 +1,14 @@
 <div id="header" align="center">
-	<h1>Всем привет, Меня зовут Егор👋</h1>
+	<h1>Всем привет, Меня зовут Егор
+	<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 	<h3>QA Engineer</h3>
 </div>
 <div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/egor-felbush-019411267/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
-	<a href="https://github.com/Felbushe">
-		<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+	<a href="https://drive.google.com/file/d/140ljOgqayA_C1w2pFhyAttb1viy2g47u/view?usp=share_link">
+		<img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=googledrive&logoColor=white" alt="GitHub"/>
 	</a>
 	<a href="https://t.me/felbushe">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -23,6 +24,10 @@
 - ⚡️ Был небольшой опыт коммерческой практики криптобиржи (веб и мобайл) 
 - 🌍 Ищу команду, в которой я бы смог раскрыть свой потенциал.
 - 📫 Связаться можно со мной [LinkedIn](https://www.linkedin.com/in/egor-felbush-019411267/), [Telegram](https://t.me/felbushe)
+- 📋 Резюме можно посмотреть [тут](https://drive.google.com/file/d/140ljOgqayA_C1w2pFhyAttb1viy2g47u/view?usp=share_link)
+<img src="https://media.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" height="40"/></h2>
+
+
 
 ### 📚Основные проекты📚
 <table>
