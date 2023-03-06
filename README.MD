@@ -31,7 +31,7 @@
     <td><b><a href="https://github.com/Felbushe/Portfolio">Ручное тестирование интернет магазина</a></b> - Использование различных техник тестирования, в рамках курса "Основы тестирования ПО"</td>
 </tr>
 <tr>
-    <td><b><a href="https://github.com/Felbushe/Pytest">Тестиорование API</a></b> - Использование библиотеки pytest для тестирования API сайта "PetFriends"</td>
+    <td><b><a href="https://github.com/Felbushe/Pytest">Тестирование API</a></b> - Использование библиотеки pytest для тестирования API сайта "PetFriends"</td>
     <td><b><a href="https://github.com/Felbushe/TelegramBot">Написанный Telegram bot</a></b> - Телеграм-бот для конвертации валют</td>
 </tr>
 </table>
