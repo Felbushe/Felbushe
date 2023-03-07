@@ -1,7 +1,11 @@
 <div id="header" align="center">
 	<h1>Всем привет, Меня зовут Егор
 	<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-	<h3>QA Engineer</h3>
+	
+<div id="header" align="center">
+  <img src="https://media.licdn.com/dms/image/D5616AQGP9QNZLCec1w/profile-displaybackgroundimage-shrink_350_1400/0/1677070526029?e=1683763200&v=beta&t=vQnpZTTXf0bZsEmwokgrNDSjyGMa9ps6WvXFVTirbHc"/>
+</div>
+
 </div>
 <div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/egor-felbush-019411267/">
