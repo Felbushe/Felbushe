@@ -51,4 +51,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="pycharm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg" title="jira" width="40" height="40"/>&nbsp;
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=felbushe&style=plastic-square&color=blue" alt=""/>
+</div>
 
