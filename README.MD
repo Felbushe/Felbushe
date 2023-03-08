@@ -48,18 +48,19 @@
 
 
 ### Используемые инструменты в работе
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
+> <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="selenium" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" title="pytest" width="40" height="40"/>&nbsp;
-![Pycharm](https://img.shields.io/badge/Pycharm-success?style=for-the-badge&logo=pycharm&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-brightgreen?style=for-the-badge&logo=swagger&logoColor=black)
-![Trello](https://img.shields.io/badge/Trello-yellow?style=for-the-badge&logo=trello&logoColor=black)
-![Redmine](https://img.shields.io/badge/Redmine-red?style=for-the-badge&logo=redmine&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-blueviolet?style=for-the-badge&logo=figma&logoColor=black)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="github" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg" title="jira" width="40" height="40"/>&nbsp;
+> <br>![Pycharm](https://img.shields.io/badge/Pycharm-success?style=for-the-badge&logo=pycharm&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-brightgreen?style=for-the-badge&logo=swagger&logoColor=black)
+> <br>![Trello](https://img.shields.io/badge/Trello-yellow?style=for-the-badge&logo=trello&logoColor=black)
+![Redmine](https://img.shields.io/badge/Redmine-red?style=for-the-badge&logo=redmine&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-blueviolet?style=for-the-badge&logo=figma&logoColor=black)
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=felbushe&style=plastic-square&color=blue" alt=""/>
 </div>
