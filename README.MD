@@ -12,7 +12,7 @@
 	<a href="https://www.linkedin.com/in/egor-felbush-019411267/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
-	<a href="https://drive.google.com/file/d/140ljOgqayA_C1w2pFhyAttb1viy2g47u/view?usp=share_link">
+	<a href="https://drive.google.com/file/d/1IithiLHsPc33KMUCavP4mfzZPX0LfO_X/view?usp=share_link">
 		<img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=googledrive&logoColor=white" alt="GitHub"/>
 	</a>
 	<a href="https://t.me/felbushe">
@@ -29,7 +29,7 @@
 - ⚡️ Был небольшой опыт коммерческой практики криптобиржи (веб и мобайл) 
 - 🌍 Ищу команду, в которой я бы смог раскрыть свой потенциал.
 - 📫 Связаться можно со мной [LinkedIn](https://www.linkedin.com/in/egor-felbush-019411267/), [Telegram](https://t.me/felbushe)
-- 📋 Резюме можно посмотреть [тут](https://drive.google.com/file/d/140ljOgqayA_C1w2pFhyAttb1viy2g47u/view?usp=share_link)
+- 📋 Резюме можно посмотреть [тут](https://drive.google.com/file/d/1IithiLHsPc33KMUCavP4mfzZPX0LfO_X/view?usp=share_link)
 <img src="https://media.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" height="40"/></h2>
 
 
