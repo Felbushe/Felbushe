@@ -1,11 +1,8 @@
 <div id="header" align="center">
 	
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=34&pause=1000&color=5A177F&vCenter=true&width=435&lines=%D0%92%D1%81%D0%B5%D0%BC+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%95%D0%B3%D0%BE%D1%80+)](https://git.io/typing-svg)<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="44"/></h1>
-	
-	
-<div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQGP9QNZLCec1w/profile-displaybackgroundimage-shrink_350_1400/0/1677070526029?e=1683763200&v=beta&t=vQnpZTTXf0bZsEmwokgrNDSjyGMa9ps6WvXFVTirbHc"/>
-</div>
+
+
 
 </div>
 <div id="socials" align="center">
