@@ -9,7 +9,7 @@
 	<a href="https://www.linkedin.com/in/egor-felbush-019411267/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
-	<a href="https://drive.google.com/file/d/1IithiLHsPc33KMUCavP4mfzZPX0LfO_X/view?usp=share_link">
+	<a href="https://drive.google.com/file/d/1tkLx6_A9Paqx958FvFXYAnq21QHaGJBX/view?usp=sharing">
 		<img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=googledrive&logoColor=white" alt="GitHub"/>
 	</a>
 	<a href="https://t.me/felbushe">
@@ -18,12 +18,12 @@
 </div>
 
 ### Обо мне
-- 💻 Занимаюсь тестированием ПО больше года, люблю качественные приложения, постоянно улучшаемые.
+- 💻 Занимаюсь тестированием ПО несколько лет, люблю качественные приложения, постоянно улучшаемые.
+- 📖 Работал Руководителем отдела тестирования на краудлендинговой платформе Jetlend
 - 🔨 Работал на проекте Modeus где тестировал их платформу, построенную на микросервисной архитектуре с множеством функциональных подсистем.
-- 📚 Проходил практику в рамках обучения "Основы тестирования ПО" и тестировал проект интернет-магазина.
 - 📖 Портфолио можно посмотреть [тут](https://github.com/Felbushe/Portfolio.git)
 - 🎓 Прошел курсы автоматизатора на Python от SkillFactory, ознакомиться с некоторыми работами [здесь](https://github.com/Felbushe/SF)
-- 💻 Получил коммерческий опыт от Clovery по разработке ПО с нуля, с командой разработчиков.
+- 💻 Работал с Clovery по разработке "Сервиса сертификатов" с нуля, с agile-командой.
 - ⚡️  Был опыт в тестировании криптобиржи (веб и мобайл) 
 - 🌍 Ищу команду, в которой я бы смог раскрыть свой потенциал.
 - 📫 Связаться можно со мной [LinkedIn](https://www.linkedin.com/in/egor-felbush-019411267/), [Telegram](https://t.me/felbushe)
