@@ -27,7 +27,7 @@
 - ⚡️  Был опыт в тестировании криптобиржи (веб и мобайл) 
 - 🌍 Ищу команду, в которой я бы смог раскрыть свой потенциал.
 - 📫 Связаться можно со мной [LinkedIn](https://www.linkedin.com/in/egor-felbush-019411267/), [Telegram](https://t.me/felbushe)
-- 📋 Резюме можно посмотреть [тут](https://drive.google.com/file/d/1IithiLHsPc33KMUCavP4mfzZPX0LfO_X/view?usp=share_link)
+- 📋 Резюме можно посмотреть [тут](https://drive.google.com/file/d/1tkLx6_A9Paqx958FvFXYAnq21QHaGJBX/view?usp=sharing)
 <img src="https://media.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" height="40"/></h2>
 
 
@@ -36,7 +36,6 @@
 <table>
 <tr>
     <td><b><a href="https://github.com/Felbushe/SF/tree/master/Modul28">Тестирование нового интерфейса авторизации в личном кабинете от заказчика «Ростелеком Информационные Технологии»</a></b> - Итоговый проект по автоматизации тестирования на учебной платформе SkillFactory</td>
-    <td><b><a href="https://github.com/Felbushe/Portfolio">Ручное тестирование интернет магазина</a></b> - Использование различных техник тестирования, в рамках курса "Основы тестирования ПО"</td>
 </tr>
 <tr>
     <td><b><a href="https://github.com/Felbushe/Pytest">Тестирование API</a></b> - Использование библиотеки pytest для тестирования API сайта "PetFriends"</td>
